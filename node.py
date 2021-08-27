@@ -8,6 +8,7 @@ import numpy as np
 from collections import Counter
 
 
+#Clase Nodo
 class Node: 
     """
     Class for creating the nodes for a decision tree 
